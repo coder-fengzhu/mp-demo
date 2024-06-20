@@ -4,3 +4,6 @@ target/
 *.iml
 .mvn/
 .DS_Store
+mvnw
+mvnw.cmd
+HELP.md
